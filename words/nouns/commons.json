@@ -1,0 +1,38 @@
+{
+  "chauffeur": {
+    "genre": "m",
+    "pl": false
+  },
+  "punk": {
+    "genre": "f",
+    "pl": false
+  },
+  "assureur": {
+    "genre": "m",
+    "pl": false
+  },
+  "inspectrice": {
+    "genre": "f",
+    "pl": false
+  },
+  "cuisinier": {
+    "genre": "m",
+    "pl": false
+  },
+  "charges": {
+    "genre": "m",
+    "pl": true
+  },
+  "militaires": {
+    "genre": "d",
+    "pl": true
+  },
+  "g\u00e9n\u00e9ral": {
+    "genre": "m",
+    "pl": false
+  },
+  "surdou\u00e9e": {
+    "genre": "f",
+    "pl": false
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Microsoft": {
+    "genre": "m",
+    "proper": true
+  },
+  "Nicolas": {
+    "genre": "m",
+    "proper": true
+  },
+  "Florence": {
+    "genre": "f",
+    "proper": true
+  }
+}

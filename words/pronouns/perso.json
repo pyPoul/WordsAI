@@ -1,0 +1,38 @@
+{
+  "je": {
+    "genre": "d",
+    "nombre": "s"
+  },
+  "tu": {
+    "genre": "d",
+    "nombre": "s"
+  },
+  "il": {
+    "genre": "m",
+    "nombre": "s"
+  },
+  "elle": {
+    "genre": "f",
+    "nombre": "s"
+  },
+  "on": {
+    "genre": "m",
+    "nombre": "s"
+  },
+  "nous": {
+    "genre": "d",
+    "nombre": "p"
+  },
+  "vous": {
+    "genre": "d",
+    "nombre": "p"
+  },
+  "ils": {
+    "genre": "m",
+    "nombre": "p"
+  },
+  "elles": {
+    "genre": "f",
+    "nombre": "p"
+  }
+}

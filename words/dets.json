@@ -1,0 +1,114 @@
+{
+  "leurs": {
+    "genre": "d",
+    "pl": true
+  },
+  "cette": {
+    "genre": "f",
+    "pl": false
+  },
+  "tes": {
+    "genre": "d",
+    "pl": true
+  },
+  "la": {
+    "genre": "f",
+    "pl": false
+  },
+  "sa": {
+    "genre": "f",
+    "pl": false
+  },
+  "le": {
+    "genre": "m",
+    "pl": false
+  },
+  "cet": {
+    "genre": "m",
+    "pl": false
+  },
+  "ces": {
+    "genre": "d",
+    "pl": true
+  },
+  "votre": {
+    "genre": "d",
+    "pl": false
+  },
+  "notre": {
+    "genre": "d",
+    "pl": false
+  },
+  "ses": {
+    "genre": "d",
+    "pl": true
+  },
+  "l'": {
+    "genre": "d",
+    "pl": false
+  },
+  "les": {
+    "genre": "d",
+    "pl": true
+  },
+  "mon": {
+    "genre": "d",
+    "pl": false
+  },
+  "ma": {
+    "genre": "f",
+    "pl": false
+  },
+  "mes": {
+    "genre": "d",
+    "pl": true
+  },
+  "son": {
+    "genre": "d",
+    "pl": false
+  },
+  "ta": {
+    "genre": "f",
+    "pl": false
+  },
+  "une": {
+    "genre": "f",
+    "pl": false
+  },
+  "des": {
+    "genre": "d",
+    "pl": true
+  },
+  "ton": {
+    "genre": "m",
+    "pl": false
+  },
+  "leur": {
+    "genre": "d",
+    "pl": false
+  },
+  "un": {
+    "genre": "m",
+    "pl": false
+  },
+  "vos": {
+    "genre": "d",
+    "pl": true
+  },
+  "ce": {
+    "genre": "m",
+    "pl": false
+  },
+  "nos": {
+    "genre": "d",
+    "pl": true
+  },
+  "chaque": {
+    "genre": "d",
+    "pl": false
+  },
+  "c'": {
+    "genre": "m",
+    "pl": false
+  }
+}

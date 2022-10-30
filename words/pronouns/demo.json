@@ -1,0 +1,34 @@
+{
+  "ceux-ci": {
+    "genre": "m",
+    "pl": true
+  },
+  "celles-ci": {
+    "genre": "f",
+    "pl": true
+  },
+  "celles-l\u00e0": {
+    "genre": "f",
+    "pl": true
+  },
+  "celle-ci": {
+    "genre": "f",
+    "pl": false
+  },
+  "celle-l\u00e0": {
+    "genre": "f",
+    "pl": false
+  },
+  "ceux-l\u00e0": {
+    "genre": "m",
+    "pl": true
+  },
+  "celui-ci": {
+    "genre": "m",
+    "pl": false
+  },
+  "celui-l\u00e0": {
+    "genre": "m",
+    "pl": false
+  }
+}
